@@ -73,6 +73,12 @@ https://anevia115.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/180px-JTV_%282012%29.svg.png" group-title="1. INDONESIA", JTV
 https://anevia115.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzQ6RL8m/SCTV.png" group-title="1. INDONESIA", SCTV
+http://nonton.wap.sh/id/009.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pr9Y1XfX/INDOSIAR.png" group-title="1. INDONESIA", INDOSIAR
+http://nonton.wap.sh/id/002.m3u8
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png" group-title="2. KIDS", LEGO
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
