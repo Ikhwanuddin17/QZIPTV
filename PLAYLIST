@@ -95,7 +95,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/INEWS-HD/sa_dash_vmx/INEWS-HD.
 https://anevia115.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15P23zkN/GLOBAL-TV.png" group-title="1. INDONESIA", GTV BACKUP
-https://anevi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png" group-title="2. KIDS", LEGO
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
