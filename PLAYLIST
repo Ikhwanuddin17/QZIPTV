@@ -88,8 +88,8 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzJ3VCvY/iNEWS.png" group-title="1. INDONESIA", iNews BACKUP
 https://anevi-live-channel-cdn.mncnow.id/live/eds/INEWS-HD/sa_dash_vmx/INEWS-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P23zkN/GLOBAL-TV.png" group-title="1. INDONESIA", GTV
-https://anevia115.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15P23zkN/GLOBAL-TV.png" group-title="1. INDONESIA", GTV
 https://anevia115.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
