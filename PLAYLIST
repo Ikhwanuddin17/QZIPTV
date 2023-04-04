@@ -79,6 +79,24 @@ http://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pr9Y1XfX/INDOSIAR.png" group-title="1. INDONESIA", INDOSIAR
 http://nonton.wap.sh/id/002.m3u8
 
+#EXTINF:-1,tvg-logo="https://4.bp.blogspot.com/-a-9VFj5nsPY/XFG4Oi2JBLI/AAAAAAAAGuM/LagsmpssOWkz2IQAn44VcsRlvyhseaehgCLcBGAs/s1600/RCTI%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="1. INDONESIA", RCTI BACKUP
+https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="1. INDONESIA", MNC TV BACKUP
+https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzJ3VCvY/iNEWS.png" group-title="1. INDONESIA", iNews BACKUP
+https://anevi-live-channel-cdn.mncnow.id/live/eds/INEWS-HD/sa_dash_vmx/INEWS-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P23zkN/GLOBAL-TV.png" group-title="1. INDONESIA", GTV
+https://anevia115.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P23zkN/GLOBAL-TV.png" group-title="1. INDONESIA", GTV
+https://anevia115.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P23zkN/GLOBAL-TV.png" group-title="1. INDONESIA", GTV BACKUP
+https://anevi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png" group-title="2. KIDS", LEGO
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
