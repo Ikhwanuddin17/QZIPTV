@@ -93,10 +93,6 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/INEWS-HD/sa_dash_vmx/INEWS-HD.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15P23zkN/GLOBAL-TV.png" group-title="1. INDONESIA", GTV
 https://anevia115.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15P23zkN/GLOBAL-TV.png" group-title="1. INDONESIA", GTV BACKUP
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
@@ -123,3 +119,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680620623/ei/7
 
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/UeVlQPG0AllbM0aZXzPTAEqFJlc_gyMj6PKksnn5mBfH7pe-LjdB7QeTTwH5_Yzlg1ha" group-title="3. RADIO", Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+
+
+
