@@ -1,0 +1,32 @@
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9_KRRXYQLvtYocDN2ddj0sGWPtLiG_cjETvOYGsw=s240-c-k-c0x00ffffff-no-rj" group-title="0. FAVORIT QIAZI", BABY SHARK
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/Cocomelon-Logo.png" group-title="0. FAVORIT QIAZI", COCOMELON
+https://devds.site/api/youlive.m3u8?v=Q5ZLPJlrJVI
+
+#EXTINF:-1,tvg-logo="https://4.bp.blogspot.com/-a-9VFj5nsPY/XFG4Oi2JBLI/AAAAAAAAGuM/LagsmpssOWkz2IQAn44VcsRlvyhseaehgCLcBGAs/s1600/RCTI%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="1. INDONESIA", RCTI
+https://epg.pw/stream/4beafd16d79721e0a9214483a7c6e68a99a9435f6bdaac38a2945c1136487403.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="1. INDONESIA", MOJI
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="1. INDONESIA", MNC TV
+https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1680419659-be6b526d0e85defb3d78d90110eda04b-0-6b329d85f55a7981609337dea908a506|referer=https://m.rctiplus.com/
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/180px-JTV_%282012%29.svg.png" group-title="1. INDONESIA", JTV
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png" group-title="2. KIDS", LEGO
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/69c84613-a1a3-4e06-ab40-bb4889dc214a/deyq3dk-28f104e3-ad8c-4ad1-8f7e-9a695bc7d035.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5Yzg0NjEzLWExYTMtNGUwNi1hYjQwLWJiNDg4OWRjMjE0YVwvZGV5cTNkay0yOGYxMDRlMy1hZDhjLTRhZDEtOGY3ZS05YTY5NWJjN2QwMzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZZ-KQAVkBD-Mxm2f6gbwgJtx7Hzy309h8qB4vZpC3Dw" group-title="2. KIDS", Disney Japan
+https://redlabmcdn.s.llnwi.net/nv02/bs13hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/1200px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="2. KIDS", Spongebob TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,tvg-logo="https://images.vexels.com/media/users/3/216748/raw/a3ea4c90a81a5713113fd42e20bb312f-e-learning-logo-design.jpg" group-title="2. KIDS", Learning & Knowledge
+http://210.210.155.37/x6bnqe/s/s36/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/UeVlQPG0AllbM0aZXzPTAEqFJlc_gyMj6PKksnn5mBfH7pe-LjdB7QeTTwH5_Yzlg1ha" group-title="3. RADIO", Suara Surabaya
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
