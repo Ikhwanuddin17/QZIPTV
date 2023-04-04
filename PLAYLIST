@@ -27,7 +27,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdtvfbg1/METRO-TV.png" group-title="1. INDONESIA", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u
 
-#EXTINF:-1  tvg-id="CNNIndonesia.id" tvg-logo="https://i.postimg.cc/43JvR160/CNN-INDONESIA.png" group-title="1. INDONESIA", CNN Indonesia
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/43JvR160/CNN-INDONESIA.png" group-title="1. INDONESIA", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QPPkk7T/CNBC-INDONESIA.png" group-title="1. INDONESIA", CNBC Indonesia
