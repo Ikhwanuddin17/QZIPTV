@@ -11,7 +11,7 @@ https://anevia115.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="1. INDONESIA", MNC TV
-https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1680419659-be6b526d0e85defb3d78d90110eda04b-0-6b329d85f55a7981609337dea908a506|referer=https://m.rctiplus.com/
+https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/180px-JTV_%282012%29.svg.png" group-title="1. INDONESIA", JTV
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/index.m3u8
