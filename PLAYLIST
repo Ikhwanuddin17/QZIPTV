@@ -13,7 +13,7 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="1. INDONESIA", MNC TV
 https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/9MNr27LP/Metro-Globe-Network.png " group-title="1. INDONESIA", Metro Globe Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MNr27LP/Metro-Globe-Network.png" group-title="1. INDONESIA", Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/180px-JTV_%282012%29.svg.png" group-title="1. INDONESIA", JTV
