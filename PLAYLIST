@@ -21,7 +21,7 @@ https://anevia115.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/QtCpHxnk/KOMPAS-TV.png" group-title="1. INDONESIA", KOMPAS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtCpHxnk/KOMPAS-TV.png" group-title="1. INDONESIA", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdtvfbg1/METRO-TV.png" group-title="1. INDONESIA", METRO TV
