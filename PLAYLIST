@@ -49,10 +49,10 @@ https://anevia115.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKpDTVNY/JPM-TV.png" group-title="1. INDONESIA",JPM TV
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZqJ9wG6n/magna-channel.png" group-title="1. INDONESIA",Magna TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqJ9wG6n/magna-channel.png" group-title="1. INDONESIA",Magna TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo=" https://images.useetv.com/logo_nusantaratv_big.png?v=1.1 " group-title="1. INDONESIA", Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="1. INDONESIA", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
