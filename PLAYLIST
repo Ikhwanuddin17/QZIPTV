@@ -5,7 +5,7 @@ https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/
 https://devds.site/api/youlive.m3u8?v=Q5ZLPJlrJVI
 
 #EXTINF:-1,tvg-logo="https://4.bp.blogspot.com/-a-9VFj5nsPY/XFG4Oi2JBLI/AAAAAAAAGuM/LagsmpssOWkz2IQAn44VcsRlvyhseaehgCLcBGAs/s1600/RCTI%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="1. INDONESIA", RCTI
-https://mooncang.my.id/api/rplus/ch.m3u8
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683099&extension=ts&play_token=M2PF34StIQ
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="1. INDONESIA", MOJI
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
