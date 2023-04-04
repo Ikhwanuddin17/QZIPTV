@@ -16,6 +16,37 @@ https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MNr27LP/Metro-Globe-Network.png" group-title="1. INDONESIA", Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvrDJ8CK/TVONE.png" group-title="1. INDONESIA", TVOne
+https://anevia115.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/QtCpHxnk/KOMPAS-TV.png" group-title="1. INDONESIA", KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdtvfbg1/METRO-TV.png" group-title="1. INDONESIA", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u
+
+#EXTINF:-1  tvg-id="CNNIndonesia.id" tvg-logo="https://i.postimg.cc/43JvR160/CNN-INDONESIA.png" group-title="1. INDONESIA", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QPPkk7T/CNBC-INDONESIA.png" group-title="1. INDONESIA", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k3bfMGF/TRANS-TV.png" tvg-url="" group-title="1. INDONESIA",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2HyYkZm/TRANS-7.png" tvg-url="" group-title="1. INDONESIA",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://i.postimg.cc/g2bqNpnm/NET-TV.png" group-title="1. INDONESIA", NET TV
+https://anevia115.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/180px-JTV_%282012%29.svg.png" group-title="1. INDONESIA", JTV
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/index.m3u8
 
