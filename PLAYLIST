@@ -123,7 +123,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624466b26ab25e0007dd7c
 https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTNsoRNsqD8AWm5PEKxD3uF8VoFxoIM0HTA&usqp=CAU" group-title="2. KIDS", BARBIE
-https://www.youtube.com/live/BfHMmpemI6M?feature=share
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680691689/ei/if0sZKD6F46P3LUPxfuS4As/ip/180.247.155.86/id/BfHMmpemI6M.1/source/yt_live_broadcast/requiressl/yes/tx/24428416/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMXEHlNQZnIBnEwUOADDalMjOUrQpwNjRH5lfgoggJcCAiArTQDUnuruhC8Ca61kWqj39vk3PxdmZzqeMiucnMw_5g%3D%3D/file/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/UeVlQPG0AllbM0aZXzPTAEqFJlc_gyMj6PKksnn5mBfH7pe-LjdB7QeTTwH5_Yzlg1ha" group-title="3. RADIO", Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
