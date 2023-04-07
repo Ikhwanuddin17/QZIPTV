@@ -18,16 +18,38 @@ https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MNr27LP/Metro-Globe-Network.png" group-title="1. INDONESIA", Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvrDJ8CK/TVONE.png" group-title="1. INDONESIA", TVOne
-http://rr2.dens.tv/s/s105/index.m3u8
+#https://www.tvonenews.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://i.postimg.cc/wvrDJ8CK/TVONE.png" group-title="1. INDONESIA", TVOne
+#http://rr2.dens.tv/s/s105/index.m3u8
+http://210.210.155.35/qwr9ew/s/s105/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s105/index.m3u8
+#http://iptvid.my.id/hmm/tvone.m3u8
+#https://av-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtCpHxnk/KOMPAS-TV.png" group-title="1. INDONESIA", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdtvfbg1/METRO-TV.png" group-title="1. INDONESIA", METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u
+#https://www.metrotvnews.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:0 tvg-id="https://i.postimg.cc/xdtvfbg1/METRO-TV.png" group-title="1. INDONESIA", METRO TV
+#http://rr2.dens.tv/h/h12/index.m3u8
+http://210.210.155.35/qwr9ew/h/h12/index.m3u8
+#http://210.210.155.37/qwr9ew/h/h12/index.m3u8
+#https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://s.id/1d0BL" group-title="1. INDONESIA",ANTV
+#http://rr2.dens.tv/s/s07/index.m3u8
+http://210.210.155.35/qwr9ew/s/s07/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+#http://iptvid.my.id/hmm/antv.m3u8
+#https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/43JvR160/CNN-INDONESIA.png" group-title="1. INDONESIA", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
@@ -136,6 +158,12 @@ https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTNsoRNsqD8AWm5PEKxD3uF8VoFxoIM0HTA&usqp=CAU" group-title="2. KIDS", BARBIE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680759851/ei/ywcuZI2LKr-LjuMPzoCXmAk/ip/103.154.145.148/id/BfHMmpemI6M.1/source/yt_live_broadcast/requiressl/yes/tx/24428420/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKEQ-lKUAq9F67S_A4p1M2HgE6iAnD52eSCnMVVGY7YFAiB8uu6Qa0X_uT-EIXSzfu9xisy3AqpDCpa37phLYBLofg%3D%3D/file/index.m3u8
 
+#https://www.mncchannels.com/micro/Kids-TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png" group-title="KIDS" tvg-id="KidsTV.id" tvg-name="2. KIDS",KIDS TV
+https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/UeVlQPG0AllbM0aZXzPTAEqFJlc_gyMj6PKksnn5mBfH7pe-LjdB7QeTTwH5_Yzlg1ha" group-title="3. RADIO", Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
@@ -143,3 +171,28 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="2. KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon
 https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:0 tvg-id="cinemax" tvg-logo="https://s.id/1d0Wk" group-title="MOVIES",CINEMAX
+https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://s.id/1d0TX" group-title="MOVIES",HBO
+https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://s.id/1d0US" group-title="MOVIES",HBO FAMILY
+https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://s.id/1d0Vm" group-title="MOVIES",HBO SIGNATURE
+https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-logo="https://s.id/1d0VK" group-title="MOVIES",HBO HITS
+https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
