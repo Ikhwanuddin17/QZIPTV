@@ -165,7 +165,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680759851/ei/y
 #https://www.mncchannels.com/micro/Kids-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png" group-title="2. KIDS" tvg-id="KidsTV.id" tvg-name="2. KIDS",KIDS TV
+#EXTINF:-1 tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059285_logo_kids%20tv.png"2. KIDS" tvg-id="KidsTV.id" tvg-name="2. KIDS",KIDS TV
 https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
