@@ -4,6 +4,8 @@ https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1,tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/Cocomelon-Logo.png" group-title="0. FAVORIT QIAZI", COCOMELON
 https://devds.site/api/youlive.m3u8?v=Q5ZLPJlrJVI
 
+----------------------------------------------------------------------------------------------------------------------------
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1,tvg-logo="https://4.bp.blogspot.com/-a-9VFj5nsPY/XFG4Oi2JBLI/AAAAAAAAGuM/LagsmpssOWkz2IQAn44VcsRlvyhseaehgCLcBGAs/s1600/RCTI%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="1. INDONESIA", RCTI
@@ -135,6 +137,8 @@ https://anevia115.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #https://mooncang.my.id/api/rplus/ch.m3u8?&id=gtv
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
+----------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png" group-title="2. KIDS", LEGO
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
@@ -161,17 +165,20 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680759851/ei/y
 #https://www.mncchannels.com/micro/Kids-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png" group-title="KIDS" tvg-id="KidsTV.id" tvg-name="2. KIDS",KIDS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqnXMLST/20221026-010214.png" group-title="2. KIDS" tvg-id="KidsTV.id" tvg-name="2. KIDS",KIDS TV
 https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/UeVlQPG0AllbM0aZXzPTAEqFJlc_gyMj6PKksnn5mBfH7pe-LjdB7QeTTwH5_Yzlg1ha" group-title="3. RADIO", Suara Surabaya
-https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="2. KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon
 https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+----------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/UeVlQPG0AllbM0aZXzPTAEqFJlc_gyMj6PKksnn5mBfH7pe-LjdB7QeTTwH5_Yzlg1ha" group-title="3. RADIO", Suara Surabaya
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+----------------------------------------------------------------------------------------------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:0 tvg-id="cinemax" tvg-logo="https://s.id/1d0Wk" group-title="MOVIES",CINEMAX
