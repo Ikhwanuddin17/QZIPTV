@@ -19,7 +19,7 @@ https://anevia115.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvrDJ8CK/TVONE.png" group-title="1. INDONESIA", TVOne
-https://anevia115.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680827061/ei/VQ4vZOT5GMLeuAKDkYyQBQ/ip/40.84.170.115/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgE3vlDufNOTGZyUuj_dxqIBbBcYsIawWb9qs8DItNr8YCIQDGAjcEYFCmiIlVAaAILy4nySFon2VJISZBUrpPumqrVg%3D%3D/file/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
