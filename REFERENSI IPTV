@@ -1,0 +1,41 @@
+https://github.com/IPTV-Digital/Channel/blob/420516373a26ac8a212c601c054c07daa44657a1/TV.m3u
+#https://github.com/hariimurti/NontonTV
+#https://github.com/mistertito86/NontonTVnew
+#https://github.com/AqFad2811
+#https://github.com/benmoose39?tab=repositories
+
+#https://dl.dropboxusercontent.com
+#https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/
+#https://beetv.my.id/x/
+#https://idcloud.tech/test
+#https://dukun.masuk.id/playlist
+
+#https://rebrand.ly/sri-tv
+#https://github.com/openwindows037
+#https://dl.dropboxusercontent.com/s/7ybs68p8yw4k50s/sri-tv.txt
+#https://dl.dropboxusercontent.com/s/dstz2d1fj652oiy/SRI-TV-2.txt
+
+#Liga BRI
+#https://github.com/krismrp123/liveliga1
+#http://golive.yn.lt/live/liga1/
+
+#VOD
+#https://www.seulangatv.com/mysql/liveevent/get_liveevent.php
+#https://www.seulangatv.com/mysql/vod/get_vod.php
+#http://51.81.208.167/
+#http://144.217.180.205/
+#http://185.223.160.3/
+#http://23.147.64.113/movies/
+#https://fmmovie.ferymaleharmx.workers.dev/
+
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600" max-conn="1" refresh="24" 
