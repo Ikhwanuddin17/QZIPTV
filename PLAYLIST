@@ -167,7 +167,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="2. KIDS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd3c7e70-c2ee-4a06-b574-afb2523d6b19/de6wpjy-e3535e44-c033-439e-94a9-528f4784cbfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkM2M3ZTcwLWMyZWUtNGEwNi1iNTc0LWFmYjI1MjNkNmIxOVwvZGU2d3BqeS1lMzUzNWU0NC1jMDMzLTQzOWUtOTRhOS01MjhmNDc4NGNiZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oa4ccALBh44JoEj4RT4qzAMY0bfyjz4Ed9ulZClT6bA",Nickelodeon
+#EXTINF:-1 group-title="2. KIDS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd3c7e70-c2ee-4a06-b574-afb2523d6b19/de6wpjy-e3535e44-c033-439e-94a9-528f4784cbfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NkM2M3ZTcwLWMyZWUtNGEwNi1iNTc0LWFmYjI1MjNkNmIxOVwvZGU2d3BqeS1lMzUzNWU0NC1jMDMzLTQzOWUtOTRhOS01MjhmNDc4NGNiZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oa4ccALBh44JoEj4RT4qzAMY0bfyjz4Ed9ulZClT6bA",Nickelodeon 1
 https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -180,12 +180,12 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetw
 #EXTINF:-1 group-title="2. KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",ANIMAX
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="2. KIDS",nickelodeon
-#http://103.167.167.5:8111/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="2. KIDS",Nickelodeon 2
+http://103.167.167.5:8111/play/a00e/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="2. KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",nickelodeon
+#EXTINF:-1 group-title="2. KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",Nickelodeon 3
 https://nxanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" tvg-id="ext" group-title="2. KIDS",NICK PLUTO TV
