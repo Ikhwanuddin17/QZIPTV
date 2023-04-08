@@ -35,21 +35,14 @@ http://210.210.155.35/qwr9ew/s/s105/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtCpHxnk/KOMPAS-TV.png" group-title="1. INDONESIA", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
-#https://www.metrotvnews.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:0 tvg-id="https://i.postimg.cc/xdtvfbg1/METRO-TV.png" group-title="1. INDONESIA", METRO TV
-#http://rr2.dens.tv/h/h12/index.m3u8
-http://210.210.155.35/qwr9ew/h/h12/index.m3u8
-#http://210.210.155.37/qwr9ew/h/h12/index.m3u8
-#https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV 2
-#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV 3
 http://210.210.155.35/uq2663/h/h12/index.m3u8
-#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.imgur.com/QnU70NI.png",METRO TV 2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
