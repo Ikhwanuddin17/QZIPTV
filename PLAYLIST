@@ -156,7 +156,7 @@ http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTNsoRNsqD8AWm5PEKxD3uF8VoFxoIM0HTA&usqp=CAU" group-title="2. KIDS", BARBIE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680951792/ei/kPUwZJ6rC4KHkgb9sb_ADg/ip/13.91.160.240/id/BfHMmpemI6M.1/source/yt_live_broadcast/requiressl/yes/tx/24483241/txs/24483240%2C24483241/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgD_61r6CFsLfDOKgDTzzfJwtdNM4tBGi2Q2Ybk3QWqk0CICMbR3sklZHgXECIzl0HNC02wR9ZTcs4OdjrBQo7LQ-3/file/index.m3u8
+https://devds.site/api/youlive.m3u8?v=33DNHLA1hc8
 
 #https://www.mncchannels.com/micro/Kids-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
