@@ -1,8 +1,11 @@
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9_KRRXYQLvtYocDN2ddj0sGWPtLiG_cjETvOYGsw=s240-c-k-c0x00ffffff-no-rj" group-title="0. FAVORIT QIAZI", BABY SHARK
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9_KRRXYQLvtYocDN2ddj0sGWPtLiG_cjETvOYGsw=s240-c-k-c0x00ffffff-no-rj" group-title="0. FAVORIT QIAZI", BABY SHARK2
+https://ythls.onrender.com/channel/UCNVE4szbMrOZk9IheX8vHbQ.m3u8
+
 #EXTINF:-1,tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/Cocomelon-Logo.png" group-title="0. FAVORIT QIAZI", COCOMELON
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690524626/ei/cgfDZNCMDY7Q4-EPrJ-JwA4/ip/36.84.101.212/id/wv1xdYcu0uE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Ul2Sq7VZfD9ZcS54UCoA02tN6f2Clte351emwlwlJNoFGltUQPpD740/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362686%2C51000022/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI_fSTsVN48FB3bLKacMgCp0Np4G9dOkmKZLL-ALWtGnAiB-FJWh14eslW4Y6rON_pRQ8coJOWErx33uY3HiL5AQwQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 ----------------------------------------------------------------------------------------------------------------------------
 
